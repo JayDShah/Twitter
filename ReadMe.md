@@ -69,7 +69,7 @@ Inputs and Outputs:
 | consumerSecret   | True    | The consumerSecret of your Twitter account|
 | accessToken       | True    | The accessToken of your Twitter account |
 | accessTokenSecret   | True    | The accessTokenSecret of your Twitter account|
-| placeId   | True    | Provide a valid WOEID to get the trending HashTags for the place |
+| placeId   | True    | Provide a valid WOEID to get the trending HashTags for the place,Global information is available by using 1 as the WOEID . |
 
 Note: You may use below URL to generate your Twitter tokens: https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/
 ## Examples
