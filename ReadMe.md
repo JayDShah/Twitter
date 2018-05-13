@@ -77,7 +77,7 @@ Please refer activity_test.go
 
 
 ## Response Codes
-### Google Drive Create
+### TrendsByPlace
 | ResponseCode     | Type | Description |
 |:------------|:---------|:------------|
 |200 |OK| The request operation was successful.|
