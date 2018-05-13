@@ -85,6 +85,6 @@ Please refer activity_test.go
 |102 |INVALID INPUT| Consumer Secret field is blank.|
 |103 |INVALID INPUT| Access Token field is blank.|
 |104 |INVALID INPUT| Access Token Secret field is blank.|
-|105 |AUTHENTICATION ERROR| PlaceId is blank.|
+|105 |INVALID INPUT| PlaceId is blank.|
 
 Refer : https://developer.twitter.com/en/docs/basics/response-codes for additional Response codes
