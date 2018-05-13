@@ -83,7 +83,7 @@ Please refer activity_test.go
 
 
 ## Response Codes
-### TrendsByPlace
+### UserTimeline
 | ResponseCode     | Type | Description |
 |:------------|:---------|:------------|
 |200 |OK| The request operation was successful.|
